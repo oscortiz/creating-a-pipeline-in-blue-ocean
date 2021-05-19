@@ -23,4 +23,7 @@ environment {
     }
 
   }
+  environment {
+    CI = 'true'
+  }
 }
